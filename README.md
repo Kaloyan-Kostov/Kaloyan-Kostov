@@ -70,7 +70,7 @@
  <a href="https://www.linkedin.com/in/kaloyan-kostov-82b04926a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=kostov.kaloyan44@gmail.com&su=Hello%20there%20%F0%9F%91%8B&body=Feel%20free%20to%20get%20in%20touch%20with%20me!&tf=cm" target="_blank">
+  <a href="mailto:kostov.kaloyan44@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
